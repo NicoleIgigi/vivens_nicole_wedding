@@ -203,6 +203,9 @@ body {
 
 @media (max-width: 520px) {
   .hero-cta .btn { width: 100%; justify-content: center; }
+  .primary-nav { gap: 12px; }
+  .primary-nav a { font-size: 14px; }
+  .logo { font-size: 24px; }
 }
 
 .cta { padding: 56px 0; }
